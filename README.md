@@ -1,2 +1,2 @@
 # Best-of-Github
-Curated list of Github repositories - - projects, lists, etc
+A collection of awesome lists, tools, frameworks, libraries, software and resources.
